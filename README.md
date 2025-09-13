@@ -61,9 +61,6 @@
 
 ---
 
-## ✨ Fun Animation
-<p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="400"/>
-</p>
+
 
 ---
