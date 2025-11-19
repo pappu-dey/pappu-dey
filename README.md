@@ -20,9 +20,9 @@
 
 ## 🤝 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/pappudey"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  <a href="https://instagram.com/your-instagram"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
+  <a href="https://x.com/Pappudey321"><img src="https://skillicons.dev/icons?i=twitter" width="48"/></a>
+  <a href="https://www.linkedin.com/in/pappu-dey-0bb84924a/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  <a href="https://www.instagram.com/pdey_62?igsh=ejNtbzQ3NHJ1N29j"><img src="https://skillicons.dev/icons?i=instagram" width="48"/></a>
   <a href="mailto:pappu.rrkgp.cst@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
 </p>
 
