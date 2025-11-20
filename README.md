@@ -22,7 +22,6 @@
 - 💬 Ask me about **React, Android, JavaScript**
 - 📫 Email: **pappu.rrkgp.cst@gmail.com**
 - ⚡ Fun fact: *I turn coffee into code ☕➡️💻*
-- 🎯 2024 Goal: **Contribute to Open Source**
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b87-4c78-9c66-73c6a3f1b222.gif" width="400">
@@ -148,6 +147,3 @@
   Made with ❤️ by <a href="https://github.com/pappu-dey">Pappu Dey</a>
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b87-4c78-9c66-73c6a3f1b222.gif" width="400">
-</p>
