@@ -60,13 +60,8 @@ fun_fact: I turn coffee into code ☕ → 💻
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pappu-dey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pappu-dey&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165"/>
-</p>
 
-
-<br/>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=pappu-dey&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=pappu-dey&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="48%"/> </p> <br/>
 
 ## 🐍 Contribution Snake
 
