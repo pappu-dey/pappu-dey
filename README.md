@@ -28,7 +28,7 @@ currently_building: Innovative React Native projects
 currently_learning: Advanced React patterns & native development
 location: India 🇮🇳
 ask_me_about: [React Native, Android, JavaScript, Mobile Development]
-2025_goal: Contribute to open source & master cross-platform development
+2027_goal: Contribute to open source & master cross-platform development
 fun_fact: I turn coffee into code ☕ → 💻
 ```
 
@@ -65,10 +65,6 @@ fun_fact: I turn coffee into code ☕ → 💻
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pappu-dey&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="165"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pappu-dey&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pappu-dey&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="48%"/>
-</p>
 
 <br/>
 
